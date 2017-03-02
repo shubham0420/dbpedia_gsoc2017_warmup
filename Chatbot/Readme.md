@@ -3,21 +3,21 @@ This repository contains the warm up task for the Google Summer of Code 2017 DBp
 
 #Usage
 
-run command :- python chatbot.py
+run command :- python chatbot.py  
 Now follow the instruction in console.
 
 #Examples
 
-Donot translate 3 in roman
+Donot translate 3 in roman  
 No output
 
-Convert 3 but not 5.
+Convert 3 but not 5.  
 III
 
-Convert 3 and 5
+Convert 3 and 5  
 III IV
 
-convert 6 and 5 but not 3 and 4.
+convert 6 and 5 but not 3 and 4.  
 VI V
 
 #Idea
